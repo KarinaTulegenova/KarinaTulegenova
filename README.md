@@ -56,9 +56,6 @@ I enjoy combining **technology, design, and psychology** to create projects that
 ---
 
 ### 💫 Quick Overview
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4000&pause=300&color=F58EA8&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Software+Engineering+Student+@AITU;Java+•+SQL+•+Web+Development+•+AI+Enthusiast+✨" />
-</div>
 
 <pre align="center">
 🎓 Student @ Astana IT University  
