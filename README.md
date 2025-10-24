@@ -47,13 +47,11 @@ I'm a 2 year student of Astana IT University.
   <img src="https://streak-stats.demolab.com?user=KarinaTulegenova&theme=rose_pine&hide_border=false" height="220" alt="streak graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarinaTulegenova&show_icons=true&theme=rose_pine&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaTulegenova&layout=compact&theme=rose_pine" height="160" />
-</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <br><br>
+
+
   <img src="https://img.shields.io/badge/English%20|%20Kazakh%20|%20Russian-9cf?style=for-the-badge" />
+    <br><br>
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
