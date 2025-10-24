@@ -15,12 +15,10 @@
   </a>
 </div>
 
----
 
-### 👩‍💻 About Me
+### About Me
 
-I'm a **Software Engineering student** at <b>Astana IT University</b> passionate about building user-friendly and purposeful software.  
-I enjoy combining **technology, design, and psychology** to create projects that make an impact.
+I'm a 2 year student of Astana IT University.
 
 - 🎓 Studying **Software Engineering (2024–2027)**  
 - 💼 Former **Informatics Teacher** at *Umskul* (Jul 2024 – Feb 2025)  
@@ -28,16 +26,6 @@ I enjoy combining **technology, design, and psychology** to create projects that
 - 🚀 Developing projects like **Flo App** (menstrual cycle tracker) and **Bank App**  
 - 🌱 Exploring **AI-powered solutions** and **Full Stack Development**
 
----
-
-### 📘 Featured Projects
-
-- 🏦 [**Bank-App**](https://github.com/KarinaTulegenova/Bank-App): Java-based banking & investment system using Builder Pattern  
-- 🖼 [**Art Gallery Management System**](https://github.com/KarinaTulegenova/Art-Gallery): SQL project for managing artworks, invoices & buyers  
-- 🌸 [**Flo App**](#): Menstrual cycle tracker helping women understand their health better  
-- 🔗 [**Prim’s & Kruskal’s Algorithms**](https://github.com/KarinaTulegenova/Prim-s-and-Kruskal-s-algorithms): Implementation of MST algorithms in Java  
-
----
 
 ### 🛠 Tech Stack
 <div align="center">
@@ -53,20 +41,6 @@ I enjoy combining **technology, design, and psychology** to create projects that
 
 </div>
 
----
-
-### 💫 Quick Overview
-
-<pre align="center">
-🎓 Student @ Astana IT University  
-💻 Focus: Java, SQL, Web Systems, Algorithms  
-🧠 Interested in Full Stack & Artificial Intelligence  
-💗 Projects: Flo App • Bank App • Art Gallery DB  
-🎮 Loves: coding • design • psychology • cats 🐱  
-</pre>
-
----
-
 ### 🔥 GitHub Stats
 
 <div align="center">
@@ -77,17 +51,6 @@ I enjoy combining **technology, design, and psychology** to create projects that
   <img src="https://github-readme-stats.vercel.app/api?username=KarinaTulegenova&show_icons=true&theme=rose_pine&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaTulegenova&layout=compact&theme=rose_pine" height="160" />
 </div>
-
----
-
-### 🎯 2025 Goals
-
-- 💻 Build a **Full Stack AI-powered web project**  
-- 🌍 Get an **internship** in software or data engineering  
-- 📚 Master **Spring Boot**, **React**, and **PostgreSQL**  
-- 🧩 Continue contributing to open-source projects  
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
