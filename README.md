@@ -49,9 +49,5 @@ I'm a 2 year student of Astana IT University.
 
 
 <div align="center">
-
-
-  <img src="https://img.shields.io/badge/English%20|%20Kazakh%20|%20Russian-9cf?style=for-the-badge" />
-    <br><br>
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
