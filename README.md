@@ -23,7 +23,6 @@ I'm a 2 year student of Astana IT University.
 - 🎓 Studying **Software Engineering (2024–2027)**  
 - 💼 Former **Informatics Teacher** at *Umskul* (Jul 2024 – Feb 2025)  
 - 💻 Skilled in **Java, SQL, Web Development, and Algorithms**  
-- 🚀 Developing projects like **Flo App** (menstrual cycle tracker) and **Bank App**  
 - 🌱 Exploring **AI-powered solutions** and **Full Stack Development**
 
 
