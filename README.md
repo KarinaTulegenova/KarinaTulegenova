@@ -1,3 +1,5 @@
+
+<img width="1193" height="357" alt="image" src="https://github.com/user-attachments/assets/781bf4bc-2b88-4734-b6ad-5d373f9fb060" />
 <br clear="both">
 <h1 align="center">Hi there, I'm Karina!</h1>
 
@@ -6,7 +8,7 @@
 I'm a backend developer, currently a student of Astana IT University.
 
 - 🎓 Studying **Software Engineering (2024–2027)**, GPA 3.5 
-- 💻 Skilled in **Django, Python, Java, SQL, Web Development, and Git**
+- 💻 Skilled in **Django, Python, Java, SQL, Web Development, Node JS and Git**
 -  IELTS B2 
 
 
