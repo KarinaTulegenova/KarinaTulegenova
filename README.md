@@ -1,5 +1,5 @@
 
-![_ (1)](https://github.com/user-attachments/assets/966370dd-767c-4553-a891-d5d2d8ba9786)
+![_ (1) — Отредактировано](https://github.com/user-attachments/assets/db74ccde-6e5d-48e9-8230-ddd3d095cd99)
 
 <h1 align="center">Hi there, I'm Karina! 💖</h1>
 
@@ -38,7 +38,6 @@ I am a passionate Fullstack Developer with a focus on building scalable web appl
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 <div align="center">
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
