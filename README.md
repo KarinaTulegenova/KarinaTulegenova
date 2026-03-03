@@ -12,10 +12,10 @@
 
 I am a passionate Fullstack Developer with a focus on building scalable web applications. Currently, I'm honing my skills at **Astana IT University**, balancing academic excellence with hands-on technical projects.
 
-- 🎓 **Education:** B.Sc. in Software Engineering (2024–2027) 
-- 📈 **Academic Standing:** GPA 3.5/4.0
-- 🌍 **Languages:** English (IELTS B2), Russian, Kazakh, Korean
-- 🔗 **Portfolio:** [Check out my work here](https://karinatulegenova.github.io/PortfolioWeb/)
+- 🎀 **Education:** B.Sc. in Software Engineering (2024–2027) 
+- 🎀 **Academic Standing:** GPA 3.5/4.0
+- 🎀 **Languages:** English (IELTS B2), Russian, Kazakh, Korean
+- 🎀 **Portfolio:** [Website](https://karinatulegenova.github.io/PortfolioWeb/)
 
 ### 💗 Tech Stack
 
