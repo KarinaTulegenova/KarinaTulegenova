@@ -15,7 +15,7 @@ I am a passionate Fullstack Developer with a focus on building scalable web appl
 - 🎀 **Education:** B.Sc. in Software Engineering (2024–2027) 
 - 🎀 **Academic Standing:** GPA 3.5/4.0
 - 🎀 **Languages:** English (IELTS B2), Russian, Kazakh, Korean
-- 🎀 **Portfolio:** [Website](https://karinatulegenova.github.io/PortfolioWeb/)
+- 🎀 **Portfolio:** [Website](https://portfolio-website-eta-two-43.vercel.app/)
 
 ### 💗 Tech Stack
 
