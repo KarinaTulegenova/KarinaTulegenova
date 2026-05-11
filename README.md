@@ -1,7 +1,7 @@
 
-![_ (1) — Отредактировано](https://github.com/user-attachments/assets/db74ccde-6e5d-48e9-8230-ddd3d095cd99)
+<img width="1920" height="500" alt="Work until you no longer have to introduce yourself  (1920 x 500 пикс )" src="https://github.com/user-attachments/assets/0c9d445a-20eb-4204-917e-9057e7e4e7fc" />
 
-<h1 align="center">Hi there, I'm Karina! 💖</h1>
+<h1 align="center">Hi there, I'm Karina!</h1>
 
 <p align="center">
   <strong>Fullstack Developer | Software Engineering Student @ Astana IT University</strong>
@@ -10,12 +10,18 @@
 
 ### 💗 About Me
 
-I am a passionate Fullstack Developer with a focus on building scalable web applications. Currently, I'm honing my skills at **Astana IT University**, balancing academic excellence with hands-on technical projects.
+Hi! I'm Karina — a Fullstack Developer and Software Engineering student at Astana IT University.
 
-- 🎀 **Education:** B.Sc. in Software Engineering (2024–2027) 
-- 🎀 **Academic Standing:** GPA 3.5/4.0
-- 🎀 **Languages:** English (IELTS B2), Russian, Kazakh, Korean
-- 🎀 **Portfolio:** [Website](https://portfolio-website-eta-two-43.vercel.app/)
+I enjoy building modern, user-focused applications and exploring both frontend and backend technologies. My current interests include scalable web development, mobile applications, UI/UX design, and software architecture.
+
+I combine academic discipline with hands-on development experience through personal and university projects.
+
+- 🎀 Software Engineering Student at Astana IT University (2024–2027)
+- 🎀 GPA: 3.5 / 4.0
+- 🎀 Languages: English (IELTS B2), Russian, Kazakh, Korean
+- 🎀 Interested in Fullstack Development, Flutter, UI/UX, and Cloud Technologies
+- 🎀 Building projects with real APIs, Firebase, and modern frameworks
+- 🎀 Portfolio: [Website](https://portfolio-website-eta-two-43.vercel.app/)
 
 ### 💗 Tech Stack
 
