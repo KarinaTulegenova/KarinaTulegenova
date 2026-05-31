@@ -1,5 +1,4 @@
-
-<img width="1920" height="500" alt="Work until you no longer have to introduce yourself  (1920 x 500 пикс )" src="https://github.com/user-attachments/assets/0c9d445a-20eb-4204-917e-9057e7e4e7fc" />
+<img width="1000" height="250" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/cf5e4f84-f9cc-4120-a527-1a8b258ddd74" />
 
 <h1 align="center">Hi there, I'm Karina!</h1>
 
