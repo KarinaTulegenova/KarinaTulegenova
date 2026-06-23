@@ -1,6 +1,4 @@
-<img width="1000" height="250" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/cf5e4f84-f9cc-4120-a527-1a8b258ddd74" />
-
-<h1 align="center">Hi there, I'm Karina!</h1>
+<img width="1584" height="396" alt="Tulegenova Karina" src="https://github.com/user-attachments/assets/055a3ad4-0d7c-4546-90ad-27cd20fe6656" />
 
 <p align="center">
   <strong>Fullstack Developer | Software Engineering Student @ Astana IT University</strong>
