@@ -14,7 +14,7 @@ I enjoy building modern, user-focused applications and exploring both frontend a
 I combine academic discipline with hands-on development experience through personal and university projects.
 
 - 🎀 Software Engineering Student at Astana IT University (2024–2027)
-- 🎀 GPA: 3.5 / 4.0
+- 🎀 GPA: 3.55 / 4.0
 - 🎀 Languages: English (IELTS B2), Russian, Kazakh, Korean
 - 🎀 Interested in Fullstack Development, Flutter, UI/UX, and Cloud Technologies
 - 🎀 Building projects with real APIs, Firebase, and modern frameworks
