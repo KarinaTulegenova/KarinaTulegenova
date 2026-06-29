@@ -18,7 +18,6 @@ I combine academic discipline with hands-on development experience through perso
 - 🎀 Languages: English (IELTS B2), Russian, Kazakh, Korean
 - 🎀 Interested in Fullstack Development, Flutter, UI/UX, and Cloud Technologies
 - 🎀 Building projects with real APIs, Firebase, and modern frameworks
-- 🎀 Portfolio: [Website](https://portfolio-website-eta-two-43.vercel.app/)
 
 ### 💗 Tech Stack
 
