@@ -9,7 +9,7 @@
 
 Hi! I'm Karina — a Fullstack Developer and Software Engineering student at Astana IT University.
 
-I enjoy building modern, user-focused applications and exploring both frontend and backend technologies. My current interests include scalable web development, mobile applications, UI/UX design, and software architecture.
+I focus on building scalable web applications with Python/Django and React while continuously improving my software engineering skills. My current interests include scalable web development, mobile applications, UI/UX design, and software architecture.
 
 I combine academic discipline with hands-on development experience through personal and university projects.
 
